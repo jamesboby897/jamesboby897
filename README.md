@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate frontend developer from Bangalore</h3>
+<h3 align="center">A passionate developer from Bangalore</h3>
 
 - 🔭 I’m currently working on [A low-cost GPS navigation device](https://github.com/jamesboby897/GPSsystem)
 
