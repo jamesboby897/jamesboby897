@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A low-cost GPS navigation device](https://github.com/jamesboby897/GPSsystem)
 
-- 🌱 I’m currently learning **C#,javascript,openGL**
+- 🌱 I’m currently learning **Go,javascript,Rust**
 
 - 👯 I’m looking to collaborate on [A unity-based FPS game](https://github.com/jamesboby897/KGB2)
 
