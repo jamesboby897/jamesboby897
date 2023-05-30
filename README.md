@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [A low-cost GPS navigation device](https://github.com/jamesboby897/GPSsystem)
 
-- 🌱 I’m currently learning **Go,javascript,Rust**
+- 🌱 I’m currently learning **Go, Javascript, Rust**
 
 - 👯 I’m looking to collaborate on [A unity-based FPS game](https://github.com/jamesboby897/KGB2)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamesboby897](https://github.com/jamesboby897)
 
-- 💬 Ask me about **Microcontrollers, Electronics, Arduino.**
+- 💬 Ask me about **Web Development, Electronics, Anything related to computers.**
 
 - ⚡ Fun fact **I'm into classical music.**
 
