@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate software developer from Waterloo, ON</h3>
 
-- 🔭 I’m currently working on [A low-cost GPS navigation device](https://github.com/jamesboby897/GPSsystem)
-
 - 🌱 I’m currently learning **Go, Ruby, .NET Core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamesboby897](https://github.com/jamesboby897)
