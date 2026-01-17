@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate software developer from Waterloo, ON</h3>
 
-- 🌱 I’m currently learning **Go, Ruby, .NET Core**
+- 🌱 I’m currently learning **Go, Microservices, Docker, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamesboby897](https://github.com/jamesboby897)
 
-- 💬 Ask me about **Web Development, Electronics, Anything related to computers.**
+- 💬 Ask me about **Software Development, Electronics, Anything related to computers.**
 
 - ⚡ Fun fact **I'm into classical music.**
 
